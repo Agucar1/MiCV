@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+body {
+    font-family: Roboto , sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+
+  }
+  
+  hr {
+    border: none;
+    border-top: 1px solid #000;
+    margin: 10px 0;
+  }
+  
+  header {
+   
+    background-color: #222;
+    padding: 10px;
+  }
+  
+  .logo {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/014/894/977/non_2x/abstract-technological-background-futuristic-illustration-of-high-computer-and-communication-technologies-on-a-blue-background-high-tech-digital-technology-vector.jpg");
+    
+  }
+
+  .logo img {
+    max-width: 200px;
+  }
+  
+  .titulo {
+    background-color: #222;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .titulo h1 {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  .sub {
+    margin-top: 40px;
+    padding-left: 5px;
+  }
+  
+  .sub h2 {
+    font-size: 20px;
+    margin: 0;
+    color: #333;
+  }
+  
+  .texto {
+    margin-left: 15px;
+    margin-top: 10px;
+    color: #555;
+  }
+  
+  ul {
+    padding-left: 0;
+  }
+  
+  ul li {
+    list-style: none;
+  }
+  
+  dl {
+    margin-top: 0;
+  }
+  
+  dt {
+    font-weight: bold;
+  }
+  
+  dd {
+    margin-left: 0;
+    margin-bottom: 10px;
+  }
+  
+  footer {
+    background-color: #222;
+    padding: 10px;
+    color: #fff;
+  }
+  
+  .pie h2 {
+    font-size: 16px;
+    margin: 0;
+  }
+  
+  .pie img {
+    vertical-align: middle;
+    margin-left: 5px;
+  }
+  
+  .pie span {
+    display: inline-block;
+    margin-left: 10px;
+  }
